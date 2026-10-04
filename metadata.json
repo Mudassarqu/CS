@@ -1,0 +1,6 @@
+{
+  "name": "IBDP Computer Science: Binary Data Representation (A1.2.2)",
+  "description": "Interactive simulation and animated video walkthrough for IBDP Computer Science Topic A1.2.2: How binary is used to store data (text, images, audio, video, and integer representations).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
